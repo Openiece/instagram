@@ -1,15 +1,14 @@
 import React from 'react';
-import { Routes, Route } from "react-router-dom";
-import { HomePage } from './pages/home-page';
-import { SignInPage } from './pages/sign-in-page';
+import {  Link } from 'react-router-dom';
 import './styles/App.css';
 
 const App = () => {
   return (
-    <Routes>
-      <Route path="/" element={<HomePage />} />
-      <Route path="/sign-in" element={<SignInPage />} />
-    </Routes>
+    <div className='row'>
+      <Link className='option' to={'/Home'}>Home</Link>
+      <Link className='option' to={'/Signin'}>Sign in</Link>
+      <Link className='option' to={'/Signup'}>Sign up</Link>
+    </div>
   );
 }
 

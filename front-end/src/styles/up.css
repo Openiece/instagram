@@ -1,0 +1,157 @@
+.con3 {
+    width: 350px;
+    height: 622px;
+    border: gray solid 1px;
+    position: absolute;
+    left: 840px;
+    top: 70px;
+}
+.text {
+    position: absolute;
+    width: 268px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+    color: grey;
+    top: 125px;
+    left: 50px;
+}
+.insta {
+    position: absolute;
+    top: 40px;
+    left: 90px;
+    width: 175px;
+    height: 70px;
+}
+.fb- {
+    text-decoration: none;
+    position: absolute;
+    top: 180px;
+    left: 100px;
+    color: rgb(41, 53, 213);
+}
+.or {
+    color: gray;
+    top: 210px;
+    left: 160px;
+    position: absolute;
+}
+.lol1 {
+    display: flex;
+    flex-direction: column;
+    width: 258px;
+    height: 36px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: absolute;
+    left: 43px;
+    top: 240px ;
+}
+.lol2 {
+    display: flex;
+    flex-direction: column;
+    width: 258px;
+    height: 36px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: absolute;
+    left: 43px;
+    top: 290px;
+}
+.lol3 {
+    display: flex;
+    flex-direction: column;
+    width: 258px;
+    height: 36px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: absolute;
+    left: 43px;
+    top: 340px;
+}
+.lol4 {
+    display: flex;
+    flex-direction: column;
+    width: 258px;
+    height: 36px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: absolute;
+    left: 43px;
+    top: 390px;
+}
+.idk {
+    width: 290px;
+    height: 46px;
+    position: absolute;
+    line-height: 16px;
+    font-weight: 400;
+    color: rgb(142, 142, 142);
+    font-size: 12px;
+    left: 40px;
+    top: 450px;
+}
+.idk1 {
+    width: 290px;
+    height: 30px;
+    position: absolute;
+    line-height: 16px;
+    font-weight: 400;
+    color: rgb(142, 142, 142);
+    font-size: 12px;
+    left: 40px;
+    top: 495px;
+}
+.butt {
+    width:268px;
+    height:32px;
+    background-color: #b3dbff;
+    top: 550px;
+    left: 39px;
+    position: absolute;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.dont {
+    width: 167px;
+    height: 18px;
+    margin: 15px;
+    font-size: 14px;
+    text-align: center;
+    display: flex;
+}
+.con4 {
+    width: 350px;
+    height: 70px;
+    border: solid 1px gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 633px;
+}
+.end {
+    width: 350px;
+    height: 95px;
+    position: absolute;
+    top: 720px;
+}
+.arr {
+    position: absolute;
+    left: 130px;
+}
+.google {
+    height: 40px;
+    width: 135px;
+    position: absolute;
+    left: 180px;
+    top: 30px;
+}
+.arrstore {
+    height: 40px;
+    width: 135px;
+    position: absolute;
+    left: 35px;
+    top: 30px;
+}

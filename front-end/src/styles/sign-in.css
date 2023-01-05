@@ -35,7 +35,7 @@
     border-radius: 5px;
     border: gray solid 1px;
 }
-.button {
+.bu {
     width:268px;
     height:32px;
     background-color: #b3dbff;
@@ -48,10 +48,10 @@
     justify-content: center;
     align-items: center;
 }
-.button:hover {
+.bu:hover {
     background-color: #6bb7f9;
 }
-.or {
+.oridk {
     color: gray;
     top: 265px;
     left: 160px;
